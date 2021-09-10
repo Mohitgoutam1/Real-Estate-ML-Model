@@ -1,0 +1,13 @@
+Output Model scores:-
+
+Decison trees:-
+MEAN : 4.375211537989725
+Standard Deviation : 0.8158768874055413
+
+Linear Regression:-
+MEAN : 5.030437102767305
+Standard Deviation : 1.060766115829483
+
+RandomForest Regressor:-
+MEAN : 3.3857903995042293
+Standard Deviation : 0.7111208762404526
